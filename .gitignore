@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.build
+assets/openfl.svg
+openfl-readme.txt
+bin/
